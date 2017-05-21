@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029053354403",
+    "firebase_url": "https://jsparking20.firebaseio.com",
+    "project_id": "jsparking20",
+    "storage_bucket": "jsparking20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029053354403:android:54908b4ac413041b",
+        "android_client_info": {
+          "package_name": "com.jsparking.jsparking20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029053354403-51nlof6vlfd79e8p2kpkcmrr0knoa9qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsparking.jsparking20",
+            "certificate_hash": "044e7bc9167e4f0e9299ceaaf5cc8dec1d1296ef"
+          }
+        },
+        {
+          "client_id": "1029053354403-e8aojhse9730pfpao9sof54lbtqurk29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9a1WlN5gl8On4cDtTFs5mEmskpEGXe6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029053354403-e8aojhse9730pfpao9sof54lbtqurk29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
